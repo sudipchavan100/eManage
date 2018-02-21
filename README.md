@@ -1,4 +1,4 @@
-# eMange
+# eManage
 CrudSpringMVCHibernateMySQL
 
 Version:
